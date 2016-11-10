@@ -1,11 +1,11 @@
-twitter.github.com
+stackrepo.github.io
 ======
 
-The source code of http://twitter.github.io/
+The source code of stackrepo.github.io
 
 LICENSE
 ------------
 
-Copyright 2012 Twitter, Inc.
+Copyright 2017 DotBack, Inc.
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
