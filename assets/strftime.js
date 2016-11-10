@@ -33,10 +33,10 @@
   function words(s) { return (s || '').split(' '); }
 
   var DefaultLocale =
-  { days: words('Sunday Monday Tuesday Wednesday Thursday Friday Saturday')
-  , shortDays: words('Sun Mon Tue Wed Thu Fri Sat')
-  , months: words('January February March April May June July August September October November December')
-  , shortMonths: words('Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec')
+  { days: words('Dimanche Lundi Mardi Mercredi Jeudi Vendredi Samedi')
+  , shortDays: words('Dim Lun Mar Mer Jeu Ven Sam')
+  , months: words('Janvier Février Mars Avril Mai Juin Juillet Août Septembre Octobre Novembre Décembre')
+  , shortMonths: words('Jan Fév Mar Avr Mai Jun Jui Aoû Sep Oct Nov Déc')
   , AM: 'AM'
   , PM: 'PM'
   }
